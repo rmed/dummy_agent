@@ -9,3 +9,6 @@ version = 0.0.1
 [INSTALL]
 agents = dummy
 etc = conf/dummy.conf
+
+[RUN]
+script = dummy.py
