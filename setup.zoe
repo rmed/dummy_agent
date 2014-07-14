@@ -5,7 +5,6 @@ author = Rafael Medina García
 email = rafamedgar@gmail.com
 license = 
 version = 0.0.1
-source = https://github.com/RMed/dummy_agent.git
 
 [INSTALL]
 agents = dummy
