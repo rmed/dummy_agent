@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Create the dummy config file
+echo "THIS IS A DUMMY CONFIG FILE CREATED BY THE POSTINST SCRIPT" > ${ZOE_HOME}/etc/dummy.conf
