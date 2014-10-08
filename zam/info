@@ -3,4 +3,5 @@ version = 0.1.0
 license = 
 maintainer = Rafael Medina García <rafamedgar@gmail.com>
 script = dummy.py
+topics = nonsense broadcast
 description = A testing dummy agent for Zoe
